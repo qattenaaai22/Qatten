@@ -4,7 +4,7 @@
 
 # Q-value Attention network (Qatten)
 
-This is the source codes for paper "Qatten: A General Framework for Cooperative Multiagent Reinforcement
+This is the source codes for paper "Qatten: A Linear Framework for Cooperative Multiagent Reinforcement
 Learning". It is developed based on PyMARL framework for deep multi-agent reinforcement learning.
 PyMARL is written in PyTorch and uses [SMAC](https://github.com/oxwhirl/smac) as its environment.
 
